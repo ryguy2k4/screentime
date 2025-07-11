@@ -1,11 +1,4 @@
-app,name,category,device
-com.noctuasoftware.stellarium-mobile-plus,Stellarium,astro,ios
-com.kechagias.polar-scope-align-free,Polar Align,astro,ios
-Astrospheric.Astrospheric,Astrospheric,astro,ios
-com.ryansponzilli.DeepSkyCatalog,Astro Planner,astro,ios
-com.tier9digital.sundial,Sundial,astro,ios
-com.microsoft.rdc.macos,Remote Desktop,astro,mac
-org.stellarium.Stellarium,Stellarium,astro,mac
+app_id,app_name,app_category,device
 com.google.Chrome,Chrome,browser,mac
 com.google.chrome.ios,Chrome,browser,ios
 com.apple.Safari,Safari,browser,
@@ -19,19 +12,17 @@ com.apple.FaceTime,Facetime,communication,
 com.hnc.Discord,Discord,communication,
 com.toyopagroup.picaboo,Snapchat,communication,ios
 com.apple.InCallService,Phone,communication,ios
-tv.trakt.trakt,Trakt,data,ios
-com.letterboxd.LetterboxdApp,Letterboxd,data,ios
-com.thestorygraph.thestorygraph,StoryGraph,data,ios
-org.name.serializdmobile,Serializd,data,ios
-com.goodreads.Goodreads,Goodreads,data,ios
-com.disney.disneyplus,Disney Plus,entertainment,ios
-com.netflix.Netflix,Neflix,entertainment,ios
-com.google.ios.youtube,YouTube,entertainment,ios
-com.apple.tv,Apple TV,entertainment,
-com.apple.TV,Apple TV,entertainment,
-com.peacocktv.peacock,Peacock,entertainment,ios
-com.apple.news,Apple News,entertainment,ios
-com.hulu.plus,Hulu,entertainment,ios
+com.doordash.dasher,Dasher,dasher,ios
+com.ubercab.UberPartner,Uber Driver,dasher,ios
+com.instacart.shopper,Instacart Shopper,dasher,ios
+tv.trakt.trakt,Trakt,data entry,ios
+com.letterboxd.LetterboxdApp,Letterboxd,data entry,ios
+com.thestorygraph.thestorygraph,StoryGraph,data entry,ios
+org.name.serializdmobile,Serializd,data entry,ios
+com.goodreads.Goodreads,Goodreads,data entry,ios
+com.myfitnesspal.mfp,MyFitnessPal,data entry,ios
+com.renpho.health,Renpho Health,data entry,ios
+com.muscleforlife.Stacked,Stacked,data entry,ios
 com.ally.MobileBanking,Ally Banking,finance,ios
 com.discoverfinancial.mobile,Discover Financial,finance,ios
 net.kortina.labs.Venmo,Venmo,finance,ios
@@ -43,24 +34,19 @@ com.innersloth.amongus,Among Us,games,ios
 com.valvesoftware.steam,Steam,games,mac
 com.supercell.magic,Clash of Clans,games,ios
 com.supercell.soil,Hay Day,games,ios
-com.myfitnesspal.mfp,MyFitnessPal,health,ios
-com.apple.Fitness,Apple Fitness,health,ios
-com.renpho.health,Renpho Health,health,ios
-com.apple.Health,Apple Health,health,ios
-com.muscleforlife.Stacked,Stacked,health,ios
-com.tmsoft.WhiteNoiseLite,White Noise,health,ios
-com.apple.journal,Journal,health,ios
-com.strava.stravaride,Strava,health,ios
+com.apple.journal,Journal,journal,ios
 com.google.Maps,Google Maps,maps,ios
 com.apple.Maps,Apple Maps,maps,ios
 com.apple.Music,Apple Music,music,ios
 com.apple.musicrecognition,Shazam,music,ios
-com.apple.MusicUIService,,music,
-com.apple.Image_Capture,,photo,
+com.apple.MusicUIService,MusicUIService,music,
+com.apple.podcasts,Apple Podcasts,music,ios
+com.apple.news,Apple News,news,ios
+com.apple.Image_Capture,Image_Capture,photo,
 com.apple.Photos,Apple Photos,photo,ios
 com.apple.camera,Camera,photo,ios
-com.apple.mobileslideshow,,photo,ios
-com.apple.podcasts,Apple Podcasts,entertainment,ios
+com.apple.mobileslideshow,Apple Photos,photo,ios
+com.microsoft.rdc.macos,Remote Desktop,productivity,mac
 com.apple.QuickTimePlayerX,QuickTime Player,productivity,mac
 com.google.android.studio,Android Studio,productivity,mac
 com.apple.SFSymbols,SF Symbols,productivity,mac
@@ -81,7 +67,6 @@ com.apple.mail,Apple Mail,productivity,ios
 com.intsig.CamScannerLite,CamScanner,productivity,ios
 com.apple.Preview,Preview,productivity,mac
 com.apple.shortcuts,Apple Shortcuts,productivity,
-com.google.Gmail,Gmail,productivity,ios
 com.skyjos.fileexplorer,FE File Explorer,productivity,ios
 com.apple.mobilecal,Calendar,productivity,ios
 com.apple.Notes,Notes,productivity,mac
@@ -106,6 +91,16 @@ com.microsoft.onenote,Onenote,productivity,ios
 com.tableausoftware.tableaudesktop,Tableau,productivity,mac
 com.leomehlig.today,Structured,productivity,mac
 com.tinyspeck.chatlyio,Slack,productivity,ios
+com.google.Gmail,Gmail,reference,ios
+com.noctuasoftware.stellarium-mobile-plus,Stellarium,reference,ios
+Astrospheric.Astrospheric,Astrospheric,reference,ios
+com.ryansponzilli.DeepSkyCatalog,Astro Planner,reference,ios
+com.tier9digital.sundial,Sundial,reference,ios
+org.stellarium.Stellarium,Stellarium,reference,mac
+com.apple.Fitness,Apple Fitness,reference,ios
+com.apple.Health,Apple Health,reference,ios
+com.apple.weather,Weather,reference,
+com.apple.findmy,Find My,reference,
 com.ebay.iphone,Ebay,shopping,ios
 doordash.DoorDashConsumer,Doordash,shopping,ios
 com.walmart.electronics,Walmart,shopping,ios
@@ -113,27 +108,29 @@ com.meijer.mobile.Meijer,Meijer,shopping,ios
 com.target.Target,Target,shopping,ios
 com.mcdonalds.gma,Mcdonalds,shopping,ios
 com.amazon.Amazon,Amazon,shopping,ios
+com.strava.stravaride,Strava,social,ios
 com.facebook.Facebook,Facebook,social,ios
 co.hinge.mobile.ios,Hinge,social,ios
 com.burbn.instagram,Instagram,social,ios
-com.apple.printcenter,Contacts,utilities,ios
-com.apple.MobileAddressBook,,utilities,
-com.apple.ScreenshotServicesService,,utilities,
-com.apple.FolderActionsSetup,,utilities,
-com.apple.AuthKitUIService,,utilities,
+com.disney.disneyplus,Disney Plus,streaming,ios
+com.netflix.Netflix,Neflix,streaming,ios
+com.apple.tv,Apple TV,streaming,
+com.apple.TV,Apple TV,streaming,
+com.peacocktv.peacock,Peacock,streaming,ios
+com.hulu.plus,Hulu,streaming,ios
+com.kechagias.polar-scope-align-free,Polar Align,utilities,ios
+com.tmsoft.WhiteNoiseLite,White Noise,utilities,ios
+com.apple.MobileAddressBook,Contacts,utilities,
+com.apple.ScreenshotServicesService,Screenshot,utilities,
+com.apple.FolderActionsSetup,FolderActionsSetup,utilities,
+com.apple.AuthKitUIService,AuthKitUIService,utilities,
 com.apple.keychainaccess,Keychain,utilities,mac
 com.apple.measure,Measure,utilities,ios
-com.apple.findmy,Find My,utilities,
 com.apple.compass,Compass,utilities,ios
 us.parkmobile.ParkMobile,Park Mobile,utilities,
 com.apple.calculator,Calculator,utilities,
-com.bresink.system.tinkertool,,utilities,
-com.apple.systempreferences,,utilities,
-com.apple.Preferences,,utilities,
+com.apple.systempreferences,Settings,utilities,
+com.apple.Preferences,Settings,utilities,
 com.apple.Passwords,Passwords,utilities,
 com.apple.mobiletimer,Clock,utilities,
-com.apple.weather,Weather,reference,
-com.doordash.dasher,Dasher,work,ios
-com.ubercab.UberPartner,Uber Driver,work,ios
-com.instacart.shopper,Instacart Shopper,work,ios
-com.whentowork.iOS.WhenToWork-Employee-Scheduling,W2W,work,ios
+com.google.ios.youtube,YouTube,youtube,ios
