@@ -1,0 +1,139 @@
+app,name,category,device
+com.noctuasoftware.stellarium-mobile-plus,Stellarium,astro,ios
+com.kechagias.polar-scope-align-free,Polar Align,astro,ios
+Astrospheric.Astrospheric,Astrospheric,astro,ios
+com.ryansponzilli.DeepSkyCatalog,Astro Planner,astro,ios
+com.tier9digital.sundial,Sundial,astro,ios
+com.microsoft.rdc.macos,Remote Desktop,astro,mac
+org.stellarium.Stellarium,Stellarium,astro,mac
+com.google.Chrome,Chrome,browser,mac
+com.google.chrome.ios,Chrome,browser,ios
+com.apple.Safari,Safari,browser,
+com.openai.chat,ChatGPT,browser,ios
+com.reddit.Reddit,Reddit,browser,
+com.apple.MobileSMS,Messages,communication,ios
+com.groupme.iphone-app,GroupMe,communication,ios
+com.hammerandchisel.discord,Discord,communication,
+com.apple.mobilephone,Phone,communication,ios
+com.apple.FaceTime,Facetime,communication,
+com.hnc.Discord,Discord,communication,
+com.toyopagroup.picaboo,Snapchat,communication,ios
+com.apple.InCallService,Phone,communication,ios
+tv.trakt.trakt,Trakt,data,ios
+com.letterboxd.LetterboxdApp,Letterboxd,data,ios
+com.thestorygraph.thestorygraph,StoryGraph,data,ios
+org.name.serializdmobile,Serializd,data,ios
+com.goodreads.Goodreads,Goodreads,data,ios
+com.disney.disneyplus,Disney Plus,entertainment,ios
+com.netflix.Netflix,Neflix,entertainment,ios
+com.google.ios.youtube,YouTube,entertainment,ios
+com.apple.tv,Apple TV,entertainment,
+com.apple.TV,Apple TV,entertainment,
+com.peacocktv.peacock,Peacock,entertainment,ios
+com.apple.news,Apple News,entertainment,ios
+com.hulu.plus,Hulu,entertainment,ios
+com.ally.MobileBanking,Ally Banking,finance,ios
+com.discoverfinancial.mobile,Discover Financial,finance,ios
+net.kortina.labs.Venmo,Venmo,finance,ios
+com.robinhood.release.Robinhood,Robinhood,finance,ios
+com.truebill.truebillnative,Rocket Money,finance,ios
+com.clairmail.fth.client,Fifth Third,finance,ios
+com.robtop.geometryjump,Geometery Dash,games,ios
+com.innersloth.amongus,Among Us,games,ios
+com.valvesoftware.steam,Steam,games,mac
+com.supercell.magic,Clash of Clans,games,ios
+com.supercell.soil,Hay Day,games,ios
+com.myfitnesspal.mfp,MyFitnessPal,health,ios
+com.apple.Fitness,Apple Fitness,health,ios
+com.renpho.health,Renpho Health,health,ios
+com.apple.Health,Apple Health,health,ios
+com.muscleforlife.Stacked,Stacked,health,ios
+com.tmsoft.WhiteNoiseLite,White Noise,health,ios
+com.apple.journal,Journal,health,ios
+com.strava.stravaride,Strava,health,ios
+com.google.Maps,Google Maps,maps,ios
+com.apple.Maps,Apple Maps,maps,ios
+com.apple.Music,Apple Music,music,ios
+com.apple.musicrecognition,Shazam,music,ios
+com.apple.MusicUIService,,music,
+com.apple.Image_Capture,,photo,
+com.apple.Photos,Apple Photos,photo,ios
+com.apple.camera,Camera,photo,ios
+com.apple.mobileslideshow,,photo,ios
+com.apple.podcasts,Apple Podcasts,entertainment,ios
+com.apple.QuickTimePlayerX,QuickTime Player,productivity,mac
+com.google.android.studio,Android Studio,productivity,mac
+com.apple.SFSymbols,SF Symbols,productivity,mac
+com.apple.iphonesimulator,iPhone Simulator,productivity,mac
+com.moodle.moodlemobile,Moodle,productivity,ios
+com.google.Drive,Google Drive,productivity,ios
+com.apple.FinalCut,Final Cut Pro,productivity,mac
+cc.arduino.IDE2,Arduino IDE,productivity,mac
+com.google.ios.ytcreator,YouTube Studio,productivity,ios
+com.cisco.secureclient.gui,Cisco VPN,productivity,mac
+com.electron.carta,CARTA,productivity,mac
+software.pleiades.PixInsight,PixInsight,productivity,mac
+com.apple.TestFlight,TestFlight,productivity,ios
+com.google.Docs,Google Docs,productivity,ios
+org.python.IDLE,IDLE IDE,productivity,mac
+com.anaconda.io,Anaconda Launcher,productivity,mac
+com.apple.mail,Apple Mail,productivity,ios
+com.intsig.CamScannerLite,CamScanner,productivity,ios
+com.apple.Preview,Preview,productivity,mac
+com.apple.shortcuts,Apple Shortcuts,productivity,
+com.google.Gmail,Gmail,productivity,ios
+com.skyjos.fileexplorer,FE File Explorer,productivity,ios
+com.apple.mobilecal,Calendar,productivity,ios
+com.apple.Notes,Notes,productivity,mac
+com.apple.reminders,Reminders,productivity,
+com.google.Sheets,Google Sheets,productivity,ios
+com.ryansponzilli.DeepSkyCatalogMac,DeepSkyCatalogMac,productivity,mac
+com.apple.mobilenotes,Notes,productivity,ios
+com.apple.dt.Xcode,Xcode,productivity,mac
+com.apple.iCal,Calendar,productivity,mac
+us.zoom.xos,Zoom,productivity,mac
+com.instructure.icanvas,Canvas,productivity,ios
+com.apple.Terminal,Terminal,productivity,mac
+com.apple.finder,Finder,productivity,mac
+com.microsoft.Outlook,Outlook,productivity,ios
+com.microsoft.Office.Outlook,Outlook,productivity,mac
+com.microsoft.VSCode,VSCode,productivity,mac
+com.microsoft.Word,Microsoft Word,productivity,mac
+com.microsoft.onenote.mac,Onenote,productivity,mac
+com.microsoft.Excel,Microsoft Excel,productivity,mac
+com.microsoft.Powerpoint,Microsoft Powerpoint,productivity,mac
+com.microsoft.onenote,Onenote,productivity,ios
+com.tableausoftware.tableaudesktop,Tableau,productivity,mac
+com.leomehlig.today,Structured,productivity,mac
+com.tinyspeck.chatlyio,Slack,productivity,ios
+com.ebay.iphone,Ebay,shopping,ios
+doordash.DoorDashConsumer,Doordash,shopping,ios
+com.walmart.electronics,Walmart,shopping,ios
+com.meijer.mobile.Meijer,Meijer,shopping,ios
+com.target.Target,Target,shopping,ios
+com.mcdonalds.gma,Mcdonalds,shopping,ios
+com.amazon.Amazon,Amazon,shopping,ios
+com.facebook.Facebook,Facebook,social,ios
+co.hinge.mobile.ios,Hinge,social,ios
+com.burbn.instagram,Instagram,social,ios
+com.apple.printcenter,Contacts,utilities,ios
+com.apple.MobileAddressBook,,utilities,
+com.apple.ScreenshotServicesService,,utilities,
+com.apple.FolderActionsSetup,,utilities,
+com.apple.AuthKitUIService,,utilities,
+com.apple.keychainaccess,Keychain,utilities,mac
+com.apple.measure,Measure,utilities,ios
+com.apple.findmy,Find My,utilities,
+com.apple.compass,Compass,utilities,ios
+us.parkmobile.ParkMobile,Park Mobile,utilities,
+com.apple.calculator,Calculator,utilities,
+com.bresink.system.tinkertool,,utilities,
+com.apple.systempreferences,,utilities,
+com.apple.Preferences,,utilities,
+com.apple.Passwords,Passwords,utilities,
+com.apple.mobiletimer,Clock,utilities,
+com.apple.weather,Weather,reference,
+com.doordash.dasher,Dasher,work,ios
+com.ubercab.UberPartner,Uber Driver,work,ios
+com.instacart.shopper,Instacart Shopper,work,ios
+com.whentowork.iOS.WhenToWork-Employee-Scheduling,W2W,work,ios
