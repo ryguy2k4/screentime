@@ -36,17 +36,17 @@ Here is a Data Dictionary of my processed file used for analysis.
 ## Tableau Story via PowerPoint Slides:
 
 ### Spring 2025 Semester Overview
-![Alt text](/results/presentation%20slides/Slide2.png "Spring 2025 Semester Overview")
+![Alt text](/results/slides/Slide2.png "Spring 2025 Semester Overview")
 ### Essential vs Distraction Screentime
-![Alt text](/results/presentation%20slides/Slide3.png "Essential vs Distraction Screentime")
+![Alt text](/results/slides/Slide3.png "Essential vs Distraction Screentime")
 ### Weekday vs Weekend Trends
-![Alt text](/results/presentation%20slides/Slide4.png "Weekday vs Weekend Trends")
+![Alt text](/results/slides/Slide4.png "Weekday vs Weekend Trends")
 ### Screentime Habit Changes after Deleting YouTube over Spring Break
-![Alt text](/results/presentation%20slides/Slide5.png "Screentime Habit Changes after Deleting YouTube over Spring Break")
+![Alt text](/results/slides/Slide5.png "Screentime Habit Changes after Deleting YouTube over Spring Break")
 ### Comparison to Previous Semesters
-![Alt text](/results/presentation%20slides/Slide6.png "Comparison to Previous Semesters")
+![Alt text](/results/slides/Slide6.png "Comparison to Previous Semesters")
 ### Looking Forward
-![Alt text](/results/presentation%20slides/Slide7.png "Looking Forward")
+![Alt text](/results/slides/Slide7.png "Looking Forward")
 
 ## Future Work
 I need to automate the data extraction so that I do not have to remember to do it manually. Not having it automated is leading to occasional gaps in the data that can influence the analysis.
